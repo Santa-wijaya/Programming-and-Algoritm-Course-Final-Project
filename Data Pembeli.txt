@@ -1,0 +1,101 @@
+#-----#
+Nama Pembeli  : Ngakan Made
+Umur Pembeli  : 20
+
+DAFTAR TIKET
+Nomer Tiket   : 1004-zxcv-jkli-R
+Masa Berlaku  : 26/05/2021 [21:00]
+
+Nomer Tiket   : 1002-dfgh-hjkl-P
+Masa Berlaku  : 26/05/2021 [21:00]
+
+#-----#
+Nama Pembeli  : Ketut Yosfin
+Umur Pembeli  : 30
+
+DAFTAR TIKET
+Nomer Tiket   : 1003-mnop-qwer-P
+Masa Berlaku  : 26/05/2021 [21:00]
+
+Nomer Tiket   : 1004-zxcv-jkli-P
+Masa Berlaku  : 26/05/2021 [21:00]
+
+#-----#
+Nama Pembeli  : Evolusi Monkey
+Umur Pembeli  : 40
+
+DAFTAR TIKET
+Nomer Tiket   : 1005-adcs-rtfg-R
+Masa Berlaku  : 26/05/2021 [21:00]
+
+Nomer Tiket   : 1005-adcs-rtfg-P
+Masa Berlaku  : 26/05/2021 [21:00]
+
+#-----#
+Nama Pembeli  : minyak goreng
+Umur Pembeli  : 12
+
+DAFTAR TIKET
+#-----#
+Nama Pembeli  : doge
+Umur Pembeli  : 13
+
+DAFTAR TIKET
+Nomer Tiket   : 1006-qwer-tyui-R
+Masa Berlaku  : 26/05/2021 [21:00]
+
+#-----#
+Nama Pembeli  : yok
+Umur Pembeli  : 14
+
+DAFTAR TIKET
+Nomer Tiket   : 1007-hdjf-lkas-R
+Masa Berlaku  : 26/05/2021 [21:00]
+
+Nomer Tiket   : 1008-yutr-opqw-R
+Masa Berlaku  : 26/05/2021 [21:00]
+
+#-----#
+Nama Pembeli  : yuyu
+Umur Pembeli  : 14
+
+DAFTAR TIKET
+#-----#
+Nama Pembeli  : yuyu
+Umur Pembeli  : 98
+
+DAFTAR TIKET
+Nomer Tiket   : 1009-gfhd-bvxc-R
+Masa Berlaku  : 26/05/2021 [21:00]
+
+#-----#
+Nama Pembeli  : uyu
+Umur Pembeli  : 17
+
+DAFTAR TIKET
+Nomer Tiket   : 1006-qwer-tyui-P
+Masa Berlaku  : 26/05/2021 [21:00]
+
+#-----#
+Nama Pembeli  : bojo
+Umur Pembeli  : 70
+
+DAFTAR TIKET
+#-----#
+Nama Pembeli  : Gojo
+Umur Pembeli  : 28
+
+DAFTAR TIKET
+#-----#
+Nama Pembeli  : yuy
+Umur Pembeli  : 9
+
+DAFTAR TIKET
+#-----#
+Nama Pembeli  : uuu
+Umur Pembeli  : 78
+
+DAFTAR TIKET
+Nomer Tiket   : 1003-mnop-qwer-R
+Masa Berlaku  : 26/05/2021 [21:00]
+
