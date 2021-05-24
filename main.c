@@ -309,15 +309,13 @@ void lihatTicket()
 
 	char buffer[100];
 
-  cekData_Pembeli();
-
-  if(cekData_Pembeli()==1)
+  if(fgets(buffer,sizeof(buffer),bantu)==NULL)
   {
     printf("Data Pembeli Kosong\n");
 
   }else{
 
-    printf("\n");
+    printf("\n%s",buffer);
     while(!feof(bantu))
     {
       fgets(buffer,sizeof(buffer),bantu);
@@ -326,20 +324,6 @@ void lihatTicket()
   }
 
 	fclose(bantu);
-}
-
-int cekData_Pembeli()
-{
-  FILE *cek = fopen("Data Pembeli.txt","r");
-
-  char temp[100];
-  
-  if((fgets(temp,sizeof(temp),cek))==NULL)
-    return 1;
-  else
-    return 0;
-
-  fclose(cek);
 }
 
 // ----------------------
